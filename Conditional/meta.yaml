@@ -1,0 +1,11 @@
+name: Conditional
+version: "1.0"
+description: Conditional fields
+url: https://github.com/edalzell/conditional
+developer: Erin Dalzell
+developer_url: https//github.com/edalzell
+fieldtype_fields:
+  sub_type:
+    type: text
+    display: Sub-Type
+    instructions: Jason rocks!!
